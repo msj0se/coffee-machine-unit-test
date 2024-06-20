@@ -70,3 +70,21 @@ The program includes tests for various functionalities:
 
 Each test checks the expected behavior of different components of the coffee machine.
 
+## Installation
+
+### Step 1: Clone the repository
+
+Clone the repository from GitHub:
+
+```bash
+git clone <repository_url>
+cd <repository_directory>
+```
+
+### Step 1: Install dependencies
+
+Install pytest:
+
+```bash
+pip install pytest
+```
