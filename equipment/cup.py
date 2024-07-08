@@ -17,7 +17,7 @@ class Cup:
 
     def has_cups(self, has_amount):
         if has_amount <= self._amount:
-            return True
+            return string
         elif self._amount == 0 or has_amount > self._amount:
             return False
 
